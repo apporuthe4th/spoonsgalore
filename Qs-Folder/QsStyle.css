@@ -1,0 +1,32 @@
+
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: rgb(214, 228, 214);
+  color: rgb(176, 144, 144);
+}
+
+header {
+justify-content: center;
+margin-top: 30px;
+}
+
+h1 {
+    font-family: 'Times New Roman';
+  color: rgb(176, 144, 144);
+  background-color: rgb(218, 228, 219);
+
+  padding: 20px;
+  border-radius: 60px;
+  border-style: groove;
+  border-color: rgb(255, 255, 255);
+  border-width: 10px;
+}
+Image {
+    justify-content: center;
+    width: 30px;
+}
